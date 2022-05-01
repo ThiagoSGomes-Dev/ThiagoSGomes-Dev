@@ -1,6 +1,6 @@
 # Hey, I'm Thiago!👋
 
-##### Criador de conteúdo no [![Youtube](https://www.youtube.com/channel/UCQVkzedXuUetHy4zQ0ijDHw)]
+##### Criador de conteúdo no [Youtube](https://www.youtube.com/channel/UCQVkzedXuUetHy4zQ0ijDHw)
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
