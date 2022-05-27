@@ -8,7 +8,7 @@
 
 - 🪖 I’m currently working on [16ª COMPANHIA DE POLÍCIA DO EXÉRCITO](https://www.10rm.eb.mil.br/index.php/organizacoes-militares-10-rm)
 
-- ▶️ Eu posto alguns vídeos no [Youtube](https://www.youtube.com/channel/UCQVkzedXuUetHy4zQ0ijDHw)
+- ▶️ I post some videos no [Youtube](https://www.youtube.com/channel/UCQVkzedXuUetHy4zQ0ijDHw)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SASS, PostCSS**
 
