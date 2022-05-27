@@ -8,7 +8,7 @@
 
 - ▶️ I post some videos no [Youtube](https://www.youtube.com/channel/UCQVkzedXuUetHy4zQ0ijDHw)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SASS
+- 💬 Ask me about HTML, CSS, SASS
 
 <br><br>
 
