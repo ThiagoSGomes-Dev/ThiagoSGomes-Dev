@@ -12,7 +12,7 @@
 <br/>
 <br>
 
-Hello, I'm Thiago Santos, a front-end web developer from Brazil. I'm a Machine Learning enthusiast. Currently, I am a member of the Brazilian army. I am a student looking to learn a little bit of everything. Besides programming, I like martial arts and food.
+Hello, I'm Thiago Santos, a front-end web developer from Brazil. I'm a Machine Learning enthusiast. Currently, I am military of the Brazilian army. I'm a professional who looking to learn a little bit of everything. Besides programming, I like martial arts and food.
 <br/>
 <br/>
 
