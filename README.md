@@ -1,6 +1,6 @@
  # Heyy! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width=40>, I'm Thiago Santos!
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThiagoSGomes-Dev&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img height="25" src="https://komarev.com/ghpvc/?username=ThiagoSGomes-Dev&color=yellow" alt="Profile views" /> </p>
 
 <a href="https://www.linkedin.com/in/thiago-gomes-663b4a222/" target="_blank">
   <img align="left" alt="Thiago LinkdeIN" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
@@ -29,19 +29,11 @@ Hello, I'm Thiago Santos, a front-end web developer from Brazil. I'm a Machine L
 
 ## ⚙️ Languages and Tools
 
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-<!--![SASS](https://img.shields.io/badge/-sass-05122A?style=flat&logo=sass)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Vue.js](https://img.shields.io/badge/-vue.js-05122A?style=flat&logo=vue.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![PostCSS](https://img.shields.io/badge/-postcss-05122A?style=flat&logo=postcss)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?
-style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![php](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;-->
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" ></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank" ></a>
+<a href="https://www.javascript.com/"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank" ></a>
+<a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" target="_blank" ></a>
+<a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank" ></a>
 
 <br><br>
 
@@ -64,16 +56,9 @@ style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ## 👤 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/thiago-gomes-663b4a222/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" 
-       alt="linkedin"/>
-</a>
-<a href="https://codepen.io/thiagosgomes-dev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-codepen-05122A?style=flat&logo=codepen" 
-       alt="codepen"/>
-</a>
-<a href="https://www.youtube.com/channel/UCQVkzedXuUetHy4zQ0ijDHw" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-youtube-05122A?style=flat&logo=youtube" 
-      alt="youtube"/>
-</a>
+ <a href="thiago:thiagodos.10@gmail.com"><img height="35" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank" ></a>
+ <a href="https://www.linkedin.com/in/thiago-gomes-663b4a222/"><img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
+ <a href="https://discord.com/channels/@me"><img height="35" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" ></a>
+ <a href="https://www.youtube.com/channel/UCQVkzedXuUetHy4zQ0ijDHw"><img height="35" src= "https://img.shields.io/badge/Youtube-CB3837?style=for-the-badge&logo=youtube&logoColor=white"      target="_blank" ></a>
+ <a href="https://codepen.io/thiagosgomes-dev"><img height="35" src= "https://img.shields.io/badge/Codepen-00000F?style=for-the-badge&logo=codepen&logoColor=white" 
 </p>
