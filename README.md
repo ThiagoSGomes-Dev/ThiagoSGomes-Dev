@@ -56,7 +56,7 @@ Hello, I'm Thiago Santos, a front-end web developer from Brazil. I'm a Machine L
 ## 👤 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
- <a href="thiago:thiagodos.10@gmail.com"><img height="35" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank" ></a>
+ <a href="[thiago:thiagodos.10@gmail.com](https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=CllgCHrdlWFSFrKdTdprnkdcspScTwsnvsBgbcklgrnSXBhvchvjlBqXJRqLzxBxkZGHmpzJgJq)"><img height="35" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank" ></a>
  <a href="https://www.linkedin.com/in/thiago-gomes-663b4a222/"><img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
  <a href="https://discord.com/channels/@me"><img height="35" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" ></a>
  <a href="https://www.youtube.com/channel/UCQVkzedXuUetHy4zQ0ijDHw"><img height="35" src= "https://img.shields.io/badge/Youtube-CB3837?style=for-the-badge&logo=youtube&logoColor=white"      target="_blank" ></a>
