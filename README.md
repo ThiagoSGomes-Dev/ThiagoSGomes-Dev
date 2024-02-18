@@ -1,64 +1,31 @@
- # Heyy! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width=40>, I'm Thiago Santos!
- 
-<p align="left"> <img height="25" src="https://komarev.com/ghpvc/?username=ThiagoSGomes-Dev&color=yellow" alt="Profile views" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago+Gomes;I'm+24+years+old;I'm+from+Brazil;I+Graduated+Software+engineering;Be+Welcome!+:%21)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/thiago-gomes-663b4a222/" target="_blank">
-  <img align="left" alt="Thiago LinkdeIN" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
-</a>
-<a href="thiago:thiagodos.10@gmail.com" target="_blank">
-  <img align="left" alt="Thiago Santos" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />
-</a>
-<br/>
-<br/>
-<br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoSGomes-Dev&bg_color=0d1117&color=fff&line=fff&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Hello, I'm Thiago Santos, a front-end web developer from Brazil. I'm a Bug bounty enthusiast. Currently, I am military of the Brazilian army. I'm a professional who looking to learn a little bit of everything. Besides programming, I like martial arts and cycling.
-<br/>
-<br/>
+### GitHub Trophy:
 
-## 😀 Talking about Personal Stuffs
-
-- 👨🏽‍💻 Looking For **Internships**
-- 🪖 I’m currently working on [16ª COMPANHIA DE POLÍCIA DO EXÉRCITO](https://www.10rm.eb.mil.br/index.php/organizacoes-militares-10-rm)
-- ▶️ I post some videos no [Youtube](https://www.youtube.com/channel/UCQVkzedXuUetHy4zQ0ijDHw)
-- 🏳️ Open For **Collaboration**
-- 💬 Ask Me About Anything Related to my projects, I Am Happy To **Help**
-- 📫 How To Reach Me: thiagodos.10@gmail.com
-
-<br><br>
-
-## ⚙️ Languages and Tools
-
-<a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" ></a>
-<a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank" ></a>
-<a href="https://www.javascript.com/"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank" ></a>
-<a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" target="_blank" ></a>
-<a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank" ></a>
-
-<br><br>
-
-## 📈 My Stats
-
-<p float="left">
-<img href="#" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSGomes-Dev&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
-</p>
 <p align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thiago Santos streak" src="https://activity-graph.herokuapp.com/graph?username=ThiagoSGomes-Dev&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true/">
-    
+  <a href="https://github-profile-trophy.vercel.app/?username=ThiagoSGomes-Dev&column=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=ThiagoSGomes-Dev&column=4" alt="trophy">
+  </a>
 </p>
 
-## 🏆 GitHub Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ThiagoSGomes-Dev&column=8)](https://github-profile-trophy.vercel.app/?username=ThiagoSGomes-Dev&column=8)
+<div align="center">  
+  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThiagoSGomes-Dev&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=0d1117" alt="Thiago Gomes github stats" /> 
+  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSGomes-Dev&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
+</div>
 
 <br><br>
 
-## 👤 &nbsp;Social Links
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
 
-<p align="left" style="background:yellow">
- <a href="[thiago:thiagodos.10@gmail.com](https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=CllgCHrdlWFSFrKdTdprnkdcspScTwsnvsBgbcklgrnSXBhvchvjlBqXJRqLzxBxkZGHmpzJgJq)"><img height="35" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank" ></a>
- <a href="https://www.linkedin.com/in/thiago-gomes-663b4a222/"><img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
- <a href="https://discord.com/channels/@me"><img height="35" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" ></a>
- <a href="https://www.youtube.com/channel/UCQVkzedXuUetHy4zQ0ijDHw"><img height="35" src= "https://img.shields.io/badge/Youtube-CB3837?style=for-the-badge&logo=youtube&logoColor=white"      target="_blank" ></a>
- <a href="https://codepen.io/thiagosgomes-dev"><img height="35" src= "https://img.shields.io/badge/Codepen-00000F?style=for-the-badge&logo=codepen&logoColor=white" 
-</p>
+### Studying in this moment:
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<br>
+</div>
