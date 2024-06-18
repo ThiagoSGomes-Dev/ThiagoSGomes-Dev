@@ -1,57 +1,22 @@
-<div align="center">
-<br>
-<p align="centre"><b>Contador de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ThiagoSGomes-Dev}/count.svg" /></p> 
-<br>
-</div>
+### Olá 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Thiago+Gomes;Eu+tenho+24+anos;E+sou+do+Brasil;Estou+me+Graduando+em+Engenharia+de+Software;Seja+bem+Vindo!+:%21)](https://git.io/typing-svg)
+Sou Thiago, estudante de Engenharia de Software.
 
-<h3 align="left">Linguagens e ferramentas:</h3><p align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer" text-decoration="none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"height="40"/></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"alt="linux"width="40"height="40"/></a>
-    </p>
-    
-### Estudando neste momento:
+[![Linkedin: Thiago](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-s-gomes-663b4a222/?locale=pt_BR)](https://www.linkedin.com/in/thiago-s-gomes-663b4a222/?locale=pt_BR)
+[![Gmail: Thiago](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:cmp.1a.thiagodos.10@gmail.com)
+[![HackerRank: Thiago](https://img.shields.io/badge/HackerRank-1ba94c?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/thiagodos_10)
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">
-</a>
+## ⚡ Tecnologias
 
-<div align="center">
-      <a href="https://www.hackerrank.com/profile/thiagodos_10" target="_blank"
-        ><img
-          src="https://img.shields.io/badge/HackerRank-1ba94c?style=for-the-badge&logo=hackerrank&logoColor=white"
-          target="_blank"
-      /></a>
-      <a href="mailto:cmp.1a.thiagodos.10@gmail.com">
-        <img
-          src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-          target="_blank"
-      /></a>
-      <a
-        href="https://www.linkedin.com/in/thiago-s-gomes-663b4a222/"
-        target="_blank"
-        ><img
-          src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-          style="border-radius: 30px"
-          target="_blank"
-      /></a>
-    </div>
+Estas são algumas das tecnologias e ferramentas que estou estudando:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoSGomes-Dev&bg_color=0d1117&color=fff&line=fff&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### Troféu GitHub:
-
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=ThiagoSGomes-Dev&column=4">
-    <img src="https://github-profile-trophy.vercel.app/?username=ThiagoSGomes-Dev&column=4" alt="trophy">
-  </a>
-</p>
-
-<div align="center">  
-  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThiagoSGomes-Dev&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=0d1117" alt="Thiago Gomes github stats" /> 
-  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSGomes-Dev&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
-</div>
-
-<br>
-
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql)
+![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=FCC624)
