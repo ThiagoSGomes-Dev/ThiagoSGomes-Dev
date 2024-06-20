@@ -2,7 +2,7 @@
 
 Sou Thiago, estudante de Engenharia de Software.
 
-[![Linkedin: Thiago](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-s-gomes-663b4a222/?locale=pt_BR)](https://www.linkedin.com/in/thiago-s-gomes-663b4a222/?locale=pt_BR)
+[![Linkedin: Thiago](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/thi-ago-gomes/?locale=pt_BR)](https://www.linkedin.com/in/thi-ago-gomes/?locale=pt_BR)
 [![Gmail: Thiago](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:cmp.1a.thiagodos.10@gmail.com)
 [![HackerRank: Thiago](https://img.shields.io/badge/HackerRank-1ba94c?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/thiagodos_10)
 
