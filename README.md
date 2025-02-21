@@ -10,6 +10,8 @@ Sou Thiago, estudante de Engenharia de Software.
 
 Estas são algumas das tecnologias e ferramentas que estou estudando:
 
+![Android](https://img.shields.io/badge/-Android-00000e?style=flat-square&logo=android)
+![Kotlin](https://img.shields.io/badge/-Kotlin-00000e?style=flat-square&logo=kotlin)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
